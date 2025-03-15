@@ -2,8 +2,8 @@
 - Wallpapers are collected in one repository, they will be updated and supplemented with time
 
 ## [Static Wallpapers](Static)
-<img src="Static/Fantasy/[2K] blue-landscape.png" alt="">
+[<img align="" alt="Static" src="Static/Fantasy/[2K] blue-landscape.png" />]()
 
 
 ## [Live Wallpapers](Dynamic)
-<img src="Dynamic/[FHD] moon.gif" alt="">
+[<img align="" alt="Live" src="Dynamic/[FHD] moon.gif" />]()
