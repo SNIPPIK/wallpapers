@@ -5,7 +5,11 @@
 # [Static Wallpapers](Static)
 <img align="" alt="image" width="1920" src="https://github.com/SNIPPIK/wallpapers/blob/main/Static/Fantasy/%5B4K%5D%20moon-sky.png?raw=true" />
 
-### Preview
+# [Live Wallpapers](Dynamic)
+<img align="" alt="image" width="1920" src="https://github.com/SNIPPIK/wallpapers/blob/main/Dynamic/%5BFHD%5D%20moon.gif?raw=true" />
+
+
+# Preview (Any images)
 | Column 1                                                                                                                             | Column 2                                                                                                                               | Column 3                                                                                                                             | Column 4                                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Dynamic/%5BFHD%5D%20cyber.gif?raw=true)                                     | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Dynamic/%5BFHD%5D%20moon.gif?raw=true)                                        | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/hyprland.png?raw=true)                                                      | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/AI/%5B2K%5D%20calder-moore-aliencrack.jpg?raw=true)                    |
@@ -98,16 +102,3 @@
 | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20midnight-reflections-moonlit-sea.jpg?raw=true)      | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20moonlight.jpg?raw=true)                               | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20space-blue.jpg?raw=true)                            | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20space-color.jpg?raw=true)                             |
 | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20Space-Nebula.png?raw=true)                          | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20space-piano.png?raw=true)                             | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20space.png?raw=true)                                 | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20spaceship-start.jpg?raw=true)                         |
 | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5B4K%5D%20Space%20stars.jpg?raw=true)                         | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/Abstract/%5B2K%5D%20abstract-swirls.jpg?raw=true)                | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Space/%5BFHD%5D%20RDT.jpg?raw=true)                                  | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Static/Windows/%5B4K%5D%20windows-xp.jpg?raw=true)                            |
-
-
-
-
-
-
-# [Live Wallpapers](Dynamic)
-<img align="" alt="image" width="1920" src="https://github.com/SNIPPIK/wallpapers/blob/main/Dynamic/%5BFHD%5D%20moon.gif?raw=true" />
-
-### Preview
-| Column 1                                                                                         | Column 2                                                                                                       | Column 3 | Column 4 |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|----------|
-| ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Dynamic/%5BFHD%5D%20cyber.gif?raw=true) | ![image](https://github.com/SNIPPIK/wallpapers/blob/main/Dynamic/%5BFHD%5D%20moon.gif?raw=true) | null     | null     |
